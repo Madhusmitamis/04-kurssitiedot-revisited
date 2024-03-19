@@ -6,12 +6,12 @@ const App =()=>{
     name:'Half Stack application development',
     parts:[
       {
-        name: 'Fundamentals of react',
+        name: 'Fundamentals of React',
         exercises: 10,
         id: 1
       },
       {
-        name: 'Usig props to pass data',
+        name: 'Using props to pass data',
         exercises: 7,
         id:2
       },
@@ -19,6 +19,11 @@ const App =()=>{
         name:'State of a component',
         exercises:14,
         id: 3
+      },
+      {
+        name:'Redux',
+        exercises:11,
+        id:4
       }
     ]
   }
